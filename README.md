@@ -1,11 +1,12 @@
-# MG Suministros – Sistema de Gestión
+# MG Suministros – Sistema de Gestión en PHP
 
 Sistema web desarrollado en PHP para la gestión de un negocio de suministros tecnológicos.
 Permite administrar compras, productos, clientes, usuarios y facturación básica mediante
 operaciones CRUD y control de acceso por roles.
 
-El proyecto fue desarrollado con fines académicos y como práctica de formación en el SENA.
-
+El proyecto fue desarrollado con fines académicos como parte de la formación en Desarrollo
+de Software en el SENA, con enfoque en buenas prácticas, estructura modular y manejo de base
+de datos relacional.
 
 ## Funcionalidades principales
 
@@ -27,6 +28,8 @@ El proyecto fue desarrollado con fines académicos y como práctica de formació
 - CSS3
 - JavaScript básico
 - XAMPP (entorno de desarrollo local)
+- Git
+- GitHub
 
 ## Requisitos
 
@@ -41,7 +44,7 @@ El proyecto fue desarrollado con fines académicos y como práctica de formació
    
    git clone https://github.com/mateo-gonzalez-dev/M-SISTEC.git
 
-2. Copiar el proyecto en la carpeta htdocs de XAMPP.
+2. Copiar el proyecto en la carpeta 'htdocs' de XAMPP.
 
 3. Abrir phpMyAdmin e importar el archivo:
 
@@ -108,10 +111,10 @@ MG_SUMINISTROS/
 ## Notas
 
 - El sistema no realiza integración con la DIAN.
-- Proyecto desarrollado sin framework para afianzar fundamentos de PHP y SQL.
+- Proyecto desarrollado sin framework para afianzar fundamentos de PHP, SQL y manejo de sesiones.
 
 ## Autor
 
 **Mateo González**  
 Practicante de Desarrollo de Software  
-SENA
+SENA – Etapa productiva
